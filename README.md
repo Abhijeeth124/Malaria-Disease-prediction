@@ -1,1 +1,1 @@
-# Malaria-Disease-prediction
+# Malaria-Detection
